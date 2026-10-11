@@ -1,0 +1,6 @@
+interface:
+  display_name: "Long Horizon"
+  short_description: "Optimize and execute multi-day Codex goals"
+  default_prompt: "Use $long-horizon in Goal mode to optimize and execute this objective autonomously:"
+policy:
+  allow_implicit_invocation: false
