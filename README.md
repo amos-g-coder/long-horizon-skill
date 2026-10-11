@@ -4,7 +4,7 @@ Long Horizon is an agent skill for turning an ambitious Codex Goal mode request 
 
 ## Install
 
-The skill lives in [`skills/long-horizon`](skills/long-horizon). The repository is public, so any agent can download or clone it without a GitHub account.
+The skill lives in [`skills/long-horizon`](https://github.com/amos-g-coder/long-horizon-skill/tree/main/skills/long-horizon). The repository is public, so any agent can download or clone it without a GitHub account.
 
 ### Codex skill installer
 
